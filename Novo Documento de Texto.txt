@@ -1,0 +1,3 @@
+https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use
+https://blog.invettor.com.br/tutorial-de-como-usar-os-icones-do-font-awesome/
+https://developer.mozilla.org/pt-BR/docs/Web/API/Element/addEventListener
